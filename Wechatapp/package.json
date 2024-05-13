@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "echarts": "^5.5.0",
+    "uniapp-axios-adapter": "^0.3.2"
+  }
+}
